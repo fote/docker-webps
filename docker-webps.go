@@ -30,12 +30,9 @@ var header string = `<html>
       <div class="starter-template">`
 var footer string = `</div></div></body></html>`
 
-
 func init() {
 	logger = log.New(os.Stdout, "", log.Ldate|log.Ltime|log.Lshortfile)
 }
-
-
 
 func main() {
 	logger.Println("Starting http server on :7777")
