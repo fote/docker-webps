@@ -20,14 +20,13 @@ var header string = `<html>
 <body>
 <nav class="navbar navbar-default navbar-static-top">
       <div class="container">
-        <div class="navbar-header">
+        <div class="navbaras-header">
           <a class="navbar-brand" href="#">Docker webps</a>
         </div>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
     <div class="container">
-
       <div class="starter-template">
         `
 var footer string = `</div></div></body></html>`
