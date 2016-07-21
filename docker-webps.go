@@ -27,8 +27,7 @@ var header string = `<html>
       </div>
     </nav>
     <div class="container">
-      <div class="starter-template">
-        `
+      <div class="starter-template">`
 var footer string = `</div></div></body></html>`
 
 
